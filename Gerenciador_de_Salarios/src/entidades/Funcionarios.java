@@ -7,6 +7,7 @@ String nome;
 String sobrenome;
 int CPF;
 String Contato;
+// ei, te amo
 
 public int getIdFuncionario() {
 	return IdFuncionario;
